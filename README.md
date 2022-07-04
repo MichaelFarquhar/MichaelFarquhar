@@ -2,9 +2,9 @@
 
 I'm a web developer with 2+ years of experience designing, developing and implementing web apps.
 
-I graduated from the University of Windsor in B.Sc. Honours Computer Information Systems. After graduation, I was hired at a local Marketing & Technology company called Digital Media, based in my hometown of Windsor, Ontario. 
+I graduated from the University of Windsor with a B.Sc. Honours Computer Information Systems. Afterwards, I was hired at Digital Media, a local marketing & technology company based in my hometown of Windsor, Ontario. 
 
-At my current place of employment, we create web apps using React, Sass, PHP and MySQL. I have also studied a variety of other web frameworks and languages on my own time.
+At my current place of employment, we create web apps primarily using React, Sass, PHP and MySQL. I have also studied a variety of other web frameworks and languages on my own time.
 
 
 ## Languages & Frameworks
