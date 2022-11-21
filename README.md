@@ -25,6 +25,7 @@ At my current place of employment, we create web apps primarily using React, Sas
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <!--
 **MichaelFarquhar/MichaelFarquhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
