@@ -1,8 +1,6 @@
 # Hi, I'm Michael. 👋
 
-I'm a web developer with 3+ years of experience designing and developing web applications.
-
-I currently work at a local marketing agency called Digital Media as a Full-Stack Web Developer. At work, I primarily work using React, Sass, PHP and MySQL. I also experience with a variety of other web frameworks and languages through building personal projects.
+I'm a web developer with 3+ years of experience designing and developing web applications. At my prior place of employment, I primarily used React, sass, PHP and MySQL. I also have experience with a variety of other web frameworks and languages through building personal projects. Currently, I am working freelance and open to employment.
 
 In my free time, I enjoy playing video games, board games, rollerblading and golfing.
 
