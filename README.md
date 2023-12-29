@@ -4,6 +4,9 @@ I'm a web developer with 3+ years of experience designing and developing web app
 
 In my free time, I enjoy playing video games, board games, rollerblading and golfing.
 
+### My Minecraft Projects:
+[![Curseforge](https://img.shields.io/badge/Curseforge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/silentdoom/projects)
+[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/SilentDoom)
 
 ## // Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
