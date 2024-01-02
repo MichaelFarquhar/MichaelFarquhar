@@ -1,4 +1,4 @@
-# Hi, I'm Michael. 👋
+![Header](./github-header-image.png)
 
 I'm a web developer with 3+ years of experience designing and developing web applications. At my prior place of employment, I primarily used React, sass, PHP and MySQL. I also have experience with a variety of other web frameworks and languages through building personal projects. Currently, I am working freelance and open to employment.
 
