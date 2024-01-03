@@ -1,33 +1,35 @@
 ![Header](./github-header-image.png)
 
-I'm a web developer with 3+ years of experience designing and developing web applications. At my prior place of employment, I primarily used React, sass, PHP and MySQL. I also have experience with a variety of other web frameworks and languages through building personal projects. Currently, I am working freelance and open to employment.
+I'm a web developer with 3+ years of experience designing and developing web applications. At my prior place of employment, I primarily used React, sass, PHP and MySQL. I also have experience with a variety of other web frameworks and languages through building personal projects. In my free time, I enjoy playing video games, board games, reading and golfing. I am currently open to employment and working on personal projects.
 
-In my free time, I enjoy playing video games, board games, rollerblading and golfing.
+### <ins>What I'm Working On</ins>
+- Developing extensions for Raycast.
+- Creating Minecraft Mods, Datapacks and Modpacks. Repositories can be found ![here](https://github.com/SilentDoom-Minecraft).
+- Creating notion templates.
 
-### My Minecraft Projects:
-[![Curseforge](https://img.shields.io/badge/Curseforge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/silentdoom/projects)
-[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/SilentDoom)
+---
 
-## // Languages
+### 💻 Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-## // Web Frameworks & Packages
+### 🎨 Styling
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 📦 Frameworks / Packages
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Astro](https://img.shields.io/badge/astro-ff5e00?style=for-the-badge&logo=astro&logoColor=white)
 
-## // Software & Tools 
+### 🛠️ Software / Tools 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
