@@ -1,5 +1,9 @@
 ![Header](./github-header-image.png)
 
+<p align="center">
+  <img width="60" src="https://imgur.com/0wZJApm.png">
+</p>
+
 I'm a web developer with 3+ years of experience designing and developing web applications. At my prior place of employment, I primarily used React, sass, PHP and MySQL. I also have experience with a variety of other web frameworks and languages through building personal projects. In my free time, I enjoy playing video games, board games, reading and golfing. I am currently open to employment and working on personal projects.
 
 ### <ins>What I'm Working On</ins>
@@ -8,6 +12,10 @@ I'm a web developer with 3+ years of experience designing and developing web app
 - Creating notion templates.
 
 ---
+
+<p align="center">
+  <img width="60" src="https://imgur.com/fIT999J.png">
+</p>
 
 ### 💻 Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
