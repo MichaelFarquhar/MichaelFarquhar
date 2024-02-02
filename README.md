@@ -9,7 +9,6 @@ I'm a web developer with 3+ years of experience designing and developing web app
 ### <ins>What I'm Working On</ins>
 - Developing extensions for Raycast.
 - Creating Minecraft Mods, Datapacks and Modpacks. Repositories can be found ![here](https://github.com/SilentDoom-Minecraft).
-- Creating notion templates.
 
 ---
 
