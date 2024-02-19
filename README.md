@@ -4,7 +4,9 @@
   <img width="60" src="https://imgur.com/0wZJApm.png">
 </p>
 
-I'm a web developer with 3+ years of experience designing and developing web applications. At my prior place of employment, I primarily used React, sass, PHP and MySQL. I also have experience with a variety of other web frameworks and languages through building personal projects. In my free time, I enjoy playing video games, board games, reading and golfing. I am currently working as a freelance developer, open to employment and working on side projects.
+I'm a web developer with over 4 years of experience designing and developing web applications. At my prior place of employment, I honed my skills in React, Sass, PHP and MySQL. However I am constantly learning new things, and so I have gained experience in a variety of other web frameworks and languages through building personal projects. I am currently working as a freelance developer, creating websites for primarily local businesses using Wordpress.
+
+When I'm not coding, you may find me scoring triple digits on the golf course, teaching overly-complicated board games, laying on the couch playing PS5 or getting lost in a good book.
 
 > I also create Raycast extensions: ![Lorem Picsum](https://www.raycast.com/michaelfarquhar/lorem-picsum)
 
