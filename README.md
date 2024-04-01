@@ -4,7 +4,7 @@
   <img width="60" src="https://imgur.com/0wZJApm.png">
 </p>
 
-I'm a web developer with over 4 years of experience designing and developing web applications. At my prior place of employment, I honed my skills in React, Sass, PHP and MySQL. However I am constantly learning new things, and so I have gained experience in a variety of other web frameworks and languages through building personal projects. I am currently working as a freelance developer, creating websites for primarily local businesses using Wordpress.
+I'm a web developer with over 4 years of experience designing and developing web applications. At my prior place of employment, I honed my skills in React, Sass, PHP and MySQL. However I am constantly learning new things, and so I have gained experience in a variety of other web frameworks and languages through building personal projects. I am currently working as a freelance developer, creating websites for primarily local businesses using Wordpress. My portfolio website can be found [here](https://michaelfarquhar.bio).
 
 When I'm not coding, you may find me scoring triple digits on the golf course, teaching overly-complicated board games, laying on the couch playing PS5 or getting lost in a good book.
 
