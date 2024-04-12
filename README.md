@@ -4,7 +4,7 @@
   <img width="60" src="https://imgur.com/0wZJApm.png">
 </p>
 
-I'm a web developer with over 4 years of experience designing and developing web applications. At my prior place of employment, I honed my skills in React, Sass, PHP and MySQL. However I am constantly learning new things, and so I have gained experience in a variety of other web frameworks and languages through building personal projects. I am currently working as a freelance developer, creating websites for primarily local businesses using Wordpress. My portfolio website can be found [here](https://michaelfarquhar.bio).
+I'm a web developer with over 4 years of experience designing and developing web applications. At my prior place of employment, I honed my skills in React, Sass, PHP and MySQL. However I am constantly learning new things, and so I have gained experience in a variety of other web frameworks and languages through building personal projects. I am currently working as a freelance developer, creating websites for primarily local businesses using Wordpress. To learn more about me and the projects I've worked on, please visit my [personal portfolio](https://michaelfarquhar.bio).
 
 When I'm not coding, you may find me scoring triple digits on the golf course, teaching overly-complicated board games, laying on the couch playing PS5 or getting lost in a good book.
 
@@ -39,7 +39,6 @@ When I'm not coding, you may find me scoring triple digits on the golf course, t
 ### 🛠️ Software & Tools 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Spectra](https://img.shields.io/badge/Spectra-5733ff?style=for-the-badge&logo=WordPress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
