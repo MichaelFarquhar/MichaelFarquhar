@@ -1,19 +1,8 @@
 ![Header](./github-header-image.png)
 
-<p align="center">
-  <img width="60" src="https://imgur.com/0wZJApm.png">
-</p>
+I'm a web developer with over 4 years of experience designing and developing web applications. I am primarily skilled in React, Sass, PHP and MySQL, however I am constantly learning new things. I have gained experience in a variety of other web frameworks and languages through building personal projects and freelancing. I've also created a Raycast extension: ![Lorem Picsum](https://www.raycast.com/michaelfarquhar/lorem-picsum). 
 
-I'm a web developer with over 4 years of experience designing and developing web applications. At my prior place of employment, I honed my skills in React, Sass, PHP and MySQL. However I am constantly learning new things, and so I have gained experience in a variety of other web frameworks and languages through building personal projects. I am currently working as a freelance developer, creating websites for primarily local businesses using Wordpress. To learn more about me and the projects I've worked on, please visit my [personal portfolio](https://michaelfarquhar.bio).
-
-When I'm not coding, you may find me scoring triple digits on the golf course, teaching overly-complicated board games, laying on the couch playing PS5 or getting lost in a good book.
-
-> I also create Raycast extensions: ![Lorem Picsum](https://www.raycast.com/michaelfarquhar/lorem-picsum)
-
-
-<p align="center">
-  <img width="60" src="https://imgur.com/fIT999J.png">
-</p>
+When I'm not coding, I like to play video games, board games and golf!
 
 ### 💻 Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
