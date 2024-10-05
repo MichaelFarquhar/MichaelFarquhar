@@ -1,8 +1,6 @@
 ![Header](./github-header-image.png)
 
-I'm a web developer with over 4 years of experience designing and developing web applications. I am primarily skilled in React, Sass, PHP and MySQL, however I am constantly learning new things. I have gained experience in a variety of other web frameworks and languages through building personal projects and freelancing. I've also created a Raycast extension: ![Lorem Picsum](https://www.raycast.com/michaelfarquhar/lorem-picsum). 
-
-When I'm not coding, I like to play video games, board games and golf!
+I am a front-end focused developer, primarily skilled in React. I enjoy diving into new languages and frameworks by building small projects that push my knowledge further. I am currently working as a Software Developer at Univerus, based in Windsor, Ontario.
 
 ### 💻 Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,16 +25,7 @@ When I'm not coding, I like to play video games, board games and golf!
 ![Spectra](https://img.shields.io/badge/Spectra-5733ff?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-### 🌐 Domains & Hosting
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-![Porkbun](https://img.shields.io/badge/Porkbun-EF7878?style=for-the-badge&logo=porkbun&logoColor=white)
-![Dreamhost](https://img.shields.io/badge/Dreamhost-0073ec?style=for-the-badge)
-
