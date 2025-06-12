@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-I am a front-end focused developer with expertise in React, and enjoy exploring new frameworks within the JavaScript ecosystem through small personal projects. I am currently as a software developer at Univerus, where I help build enterprise business solutions using React and .NET.
+Frontend developer who loves working with React and exploring whatever's new in the JavaScript world. I'm always tinkering with different frameworks through side projects—it's how I learn best. Currently building enterprise solutions at Univerus using React and .NET
 
 ### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,7 +12,7 @@ I am a front-end focused developer with expertise in React, and enjoy exploring 
 ![Astro](https://img.shields.io/badge/astro-ff5e00?style=for-the-badge&logo=astro&logoColor=white)
 
 ### 🎨 Styling
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
