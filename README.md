@@ -10,7 +10,7 @@ Frontend developer who loves working with React and exploring whatever's new in 
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### 🌐 Backend
+### 🌐 Backend Skills
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL/SQLite](https://img.shields.io/badge/MySQL/SQLite-005C84?style=for-the-badge&logo=mysql&logoColor=white)
